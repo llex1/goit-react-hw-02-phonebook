@@ -1,0 +1,8 @@
+.contactList{
+  width: 320px;
+}
+.contactListItem{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
