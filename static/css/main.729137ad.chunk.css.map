@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App/components/ContactList/ContactList.module.css"],"names":[],"mappings":"AAAA,gCACE,WACF,CACA,oCACE,YAAa,CACb,6BAA8B,CAC9B,iBACF","file":"main.729137ad.chunk.css","sourcesContent":[".contactList{\n  width: 320px;\n}\n.contactListItem{\n  display: flex;\n  justify-content: space-between;\n  margin-bottom: 5px;\n}"]}
