@@ -2,3 +2,7 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
+.filterAlert{
+  color: dodgerblue;
+  font-weight: 700;
+}
